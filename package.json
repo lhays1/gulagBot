@@ -1,0 +1,15 @@
+{
+  "name": "gulagbot",
+  "version": "1.0.0",
+  "description": "Discord bot for tracking gulag wins/loss",
+  "main": "bot.js",
+  "dependencies": {
+    "eris": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke",
+  "license": "ISC"
+}
